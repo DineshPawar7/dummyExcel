@@ -15,6 +15,5 @@ module.exports = {
     },
   },
   rules: {
-    // customize if needed
   },
 };
